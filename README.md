@@ -18,7 +18,7 @@
 - 基本狀態管理
 
 ##  預覽
-https://aeunicronntd.github.io/To_do_list_app/
+https://aeunicronntd.github.io/To_do_list_web/
 
 ##  備註
 此專案為學習用途。
